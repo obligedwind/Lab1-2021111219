@@ -7,6 +7,7 @@ import javax.swing.*;
 import java.io.*;
 import java.util.*;
 import java.util.Random;
+// change for test
 public class TextGraph {
     private HashMap<String, HashMap<String, Integer>>graph = new HashMap<>();
     private Random random = new Random();
