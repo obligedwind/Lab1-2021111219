@@ -7,7 +7,7 @@ import javax.swing.*;
 import java.io.*;
 import java.util.*;
 import java.util.Random;
-// change for test
+// 这里注释的修改用于测试git 分支修改影响
 public class TextGraph {
     private HashMap<String, HashMap<String, Integer>>graph = new HashMap<>();
     private Random random = new Random();
